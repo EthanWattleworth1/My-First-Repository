@@ -4,31 +4,31 @@ This is a sample of a good README.md file that can be used when describing a pro
 This is a test.
 Lets see what happens.
 
-Table of Contents
+## Table of Contents
 
-PROJECT TITLE
+- [PROJECT_TITLE](#Project-title)
 
-DESCRIPTION
+- [DESCRIPTION](#Description)
 
-TOOLS USED
+- [TOOLS_USED](#Tools-used)
 
-FILES USED
+- [FILES_USED](#Files-used)
 
-HOW TO RUN PROGRAM
+- [HOW_TO_RUN_PROGRAM](#How-to-run-program)
 
-ADDITIONAL INFORMATION
+- [ADDITIONAL_INFORMATION](#Additional-information)
 
-Project Title
+## Project Title
 
 Hello World Sample - My First Repository
 
-Description
+## Description
 
 Practice using GitHub by creating a sample repository. Make sure you add a description to help others understand your project. This should explain in detail what you did in this project, what you accomplished, outcomes, results, and so on.
 
 This project helped me practice creating a repository, customizing a README.md file, and using Markdown syntax to improve documentation skills.
 
-Tools Used
+## Tools Used
 
 Discussed all programming languages and tools used in this project. This could include:
 
@@ -42,7 +42,7 @@ Power BI
 
 Websites and more
 
-Files Used
+## Files Used
 
 Did you use any data files?
 
@@ -56,7 +56,7 @@ Data file considerations
 
 Example URL: Powerball Lottery Winning Numbers since 2010
 
-How to Run Program
+## How to Run Program
 
 Explain here how you would run the program and what files need to be available.
 
@@ -67,7 +67,7 @@ Hello_World/
     │── filename1.csv
     │── examples.html
 
-Additional Information
+## Additional Information
 
 Here is where you can add links or talk about results or how you are using this information. This is your place to share more.
 
